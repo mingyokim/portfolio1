@@ -1,0 +1,10 @@
+p {
+    font-family: 'Montserrat', sans-serif; 
+    font-size: 20px; 
+    text-align: center;
+}
+
+.section_img {
+    width: 100%;
+    margin-bottom: 5%;
+}
