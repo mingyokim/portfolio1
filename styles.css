@@ -1,15 +1,56 @@
 p {
     font-family: 'Montserrat', sans-serif; 
-    font-size: 20px; 
+    font-size: 20px;
+    color: #DCDCDD;
     text-align: center;
 }
 
 .section-img {
     width: 100%;
     margin-bottom: 5%;
+    opacity: 0.8;
+}
+
+.section-img:hover {
+    opacity: 1;
 }
 
 .nav-text {
     font-size: 1.5em;
     font-family: 'Montserrat', sans-serif;
 }
+
+#front-logo {
+    width: 25%; 
+    margin-left: 37.5%; 
+    margin-bottom: 2%;
+    opacity: 0.75;
+}
+
+#front-logo:hover {
+    opacity: 1;
+}
+
+body {
+    background-image: url("images/bg-reduced.jpg");
+    background-size: 100%;
+    background-attachment: fixed;
+}
+
+.section-bg {
+    background-color: white;
+    opacity: 0.3;
+}
+
+#headshot {
+
+}
+
+/*
+.change-opacity {
+    opacity: 1;
+}
+
+.change-opacity:hover {
+    opacity: 1;
+}*/
