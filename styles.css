@@ -1,8 +1,13 @@
 p {
     font-family: 'Montserrat', sans-serif; 
-    font-size: 20px;
+    font-size: 1.5em;
     color: #DCDCDD;
     text-align: center;
+}
+
+.my-name {
+    font-size: 2.5em;
+    color: #D2D7DF;
 }
 
 .section-img {
@@ -22,6 +27,7 @@ p {
 
 #front-logo {
     width: 25%; 
+    margin-top: 5%;
     margin-left: 37.5%; 
     margin-bottom: 2%;
     opacity: 0.75;
@@ -38,12 +44,13 @@ body {
 }
 
 .section-bg {
-    background-color: white;
-    opacity: 0.3;
+    background-color: rgba(255, 255, 255, 0.3);
+    margin-top: 7.5%;
 }
 
 #headshot {
-
+    margin-top: 50%;
+    margin-bottom: 15%;
 }
 
 /*
